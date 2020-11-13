@@ -1,0 +1,11 @@
+type MyModel1 @model {
+  id: ID!
+  name: String!
+  description: String
+}
+
+type MyModel2 @model {
+  id: ID!
+  name: String!
+  description: String
+}
